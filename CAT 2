@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Welcome to Our Weather Application</h1>
+            <div class="search-bar">
+                <input type="text" placeholder="Enter city name">
+                <button>SEARCH</button>
+            </div>
+        </div>
+
+        <div class="weather-info">
+            <div class="city">Paris</div>
+            <div class="current-weather">
+                <div class="temp">12°C</div>
+                <img src="cloud.png" alt="Cloud icon">
+            </div>
+            <div class="details">
+                <p>Tuesday 14:40, scattered clouds</p>
+                <p>Humidity: 66%, Wind Speed: 4.3</p>
+            </div>
+        </div>
+
+        <div class="forecast">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Mon</th>
+                        <th>Tue</th>
+                        <th>Wed</th>
+                        <th>Thu</th>
+                        <th>Fri</th>
+                        <th>Sat</th>
+                        <th>Sun</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>15°</td>
+                        <td>19°</td>
+                        <td>15°</td>
+                        <td>19°</td>
+                        <td>15°</td>
+                        <td>19°</td>
+                        <td>15°</td>
+                    </tr>
+                    <tr>
+                        <td>19°</td>
+                        <td>19°</td>
+                        <td>19°</td>
+                        <td>19°</td>
+                        <td>19°</td>
+                        <td>19°</td>
+                        <td>19°</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <p class="credit">Coded by kelvin and is on Github and hosted by Netlify.</p>
+    </div>
+</body>
+</html>
