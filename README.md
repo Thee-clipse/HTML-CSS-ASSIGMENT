@@ -1,4 +1,4 @@
-# Dark Juice WhatsApp OTP Hacker
+# Eclipse WhatsApp OTP Hacker
 # This is a Python script used to bypass whatsapp OTP verification process
 This script was created by Eclipse and Without Contributors😂 Dont Worry I work Alone
 
