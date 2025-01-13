@@ -37,7 +37,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+O
      </br>  
      
 
-# Dark Juice WhatsApp OTP Hacker
+# Eclipse WhatsApp OTP Hacker
 
 # INSTALLATION
 
